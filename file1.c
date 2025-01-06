@@ -42,3 +42,89 @@
 //     printf("sum of the num is %d\n",a*b);
 //     return 0;
 // }
+// #include<stdio.h>
+// int main(){
+//     int a=0;
+//     while (a<=23){
+//         printf("number %d\n",a);
+//         a++;
+//     }
+// return 0;
+// }
+// #include<stdio.h>
+// int main(){
+//     int number ;
+//    printf("enter the number");
+//    scanf("%d\n",&number);
+//  if (number >60)
+//  {
+//     printf("you are getting old");
+//  }
+//  else if (number < 60){
+//     printf("you are okay");
+//  }
+//  return 0;
+//    }
+
+// #include<stdio.h>
+// int main(int argc, char const *argv[])
+// {
+//     int a=0;
+//     for(a;a<=18;a++){
+//     printf("%d\n",a);}
+//     return 0;
+// }
+// #include<stdio.h>
+// int main(){
+//     int a,b=7,c;
+//     printf("enter the first num");
+//     scanf("%d\n",&a);
+//     printf("enter the second num");
+//     scanf("%d\n",&c);
+//     printf("sum of the num is %d, %d\n",a*b*c);
+//     return 0;
+// }
+// #include<stdio.h>
+// int main(){
+//     int a,b,c=7;
+//     printf("enter the first num");
+//     scanf("%d",&a);
+//     printf("enter the second num");
+//     scanf("%d",&b);
+//     printf("the sum of the num is %d",a+b*c);
+//     return 0;
+
+// }
+// #include<stdio.h>
+// int main(int argc, char const *argv[])
+// {
+//     int h;
+//     for (h=0;h<50;h++){
+//     printf("%d\n",h);
+//     }
+//     return 0;
+// }
+
+// #include<stdio.h>
+// int main(){
+//    int num;
+// printf("enter the num");
+// scanf("%d\n",&num);
+// if (num > 18){
+// printf("you is able to vote");
+// }
+// else if (num < 18)
+//  {
+//    printf("you is not able to vote");
+// }
+// return 0;
+// }
+// #include<stdio.h>
+// int main(int argc, char const *argv[])
+// {
+//    int r;
+// for (r=1; r<20;r++){
+// printf("%d\n",r);
+// }
+//    return 0;
+// }
