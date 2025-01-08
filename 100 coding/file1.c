@@ -128,7 +128,7 @@
 // }
 //    return 0;
 // }
-#include<stdio.h>
+// #include<stdio.h>
 // int main(int argc, char const *argv[])
 // {
 //     int i=0;
@@ -185,5 +185,17 @@
 //         printf("%d is odd.\n", num);
 //     }
 
+//     return 0;
+// }
+// #include<stdio.h>
+// int main(){
+//     int a,b,c,d=3;
+//     printf("enter first num");
+//     scanf("%d",&a);
+//     printf("enter the second num");
+//     scanf("%d",&b);
+//     printf("enter the third num");
+//     scanf("%d",&c);
+//     printf("sum of the num is %d\n",a*b*c+d);
 //     return 0;
 // }
